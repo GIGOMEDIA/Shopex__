@@ -1,11 +1,11 @@
 "use client";
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
-import Products from './pages/Products';
-import Cart from './Pages/Cart';
-import Checkout from './pages/Checkout';
-import Header from './components/Header';
+import Header from './components/Header.jsx';
+import Products from './Pages/Products.jsx';
+import Cart from './Pages/Cart.jsx';
+import Checkout from './pages/Checkout.jsx';
+import Header from './components/Header.jsx';
 
 function App() {
   return (
