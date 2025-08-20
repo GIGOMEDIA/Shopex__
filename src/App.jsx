@@ -4,6 +4,7 @@ import Header from './Components/Header.jsx';
 import Products from './Pages/Products.jsx';
 import Cart from './Pages/Cart.jsx';
 import Checkout from './Pages/Checkout.jsx';
+import Home from './Pages/Home.jsx'
 
 function App() {
   return (
