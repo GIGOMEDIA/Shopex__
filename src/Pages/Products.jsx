@@ -1,5 +1,5 @@
 import React from 'react';
-import ProductCard from '../components/ProductCard';
+import ProductCard from '../Components/ProductCard';
 
 const products = [
   { id: 1, name: 'Laptop', price: 1200, image: 'https://via.placeholder.com/200x150?text=Laptop' },
