@@ -5,7 +5,6 @@ import Header from './components/Header.jsx';
 import Products from './Pages/Products.jsx';
 import Cart from './Pages/Cart.jsx';
 import Checkout from './pages/Checkout.jsx';
-import Header from './components/Header.jsx';
 
 function App() {
   return (
