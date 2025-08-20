@@ -1,7 +1,6 @@
-"use client";
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './components/Header.jsx';
+import Header from './Components/Header.jsx';
 import Products from './Pages/Products.jsx';
 import Cart from './Pages/Cart.jsx';
 import Checkout from './pages/Checkout.jsx';
